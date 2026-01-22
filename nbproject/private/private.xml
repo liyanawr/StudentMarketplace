@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/freen/Documents/NetBeansProjects/StudentMarketplace/web/dashboard.jsp</file>
+            <file>file:/C:/Users/freen/Documents/NetBeansProjects/StudentMarketplace/src/java/com/marketplace/controller/SellItemServlet.java</file>
+            <file>file:/C:/Users/freen/Documents/NetBeansProjects/StudentMarketplace/src/java/com/marketplace/dao/ItemDAO.java</file>
+            <file>file:/C:/Users/freen/Documents/NetBeansProjects/StudentMarketplace/src/java/com/marketplace/dao/CartDAO.java</file>
+            <file>file:/C:/Users/freen/Documents/NetBeansProjects/StudentMarketplace/web/login.jsp</file>
+            <file>file:/C:/Users/freen/Documents/NetBeansProjects/StudentMarketplace/src/java/com/marketplace/filter/AuthFilter.java</file>
+            <file>file:/C:/Users/freen/Documents/NetBeansProjects/StudentMarketplace/src/CampusMart.sql</file>
+            <file>file:/C:/Users/freen/Documents/NetBeansProjects/StudentMarketplace/src/java/com/marketplace/controller/RegisterServlet.java</file>
+            <file>file:/C:/Users/freen/Documents/NetBeansProjects/StudentMarketplace/src/java/com/marketplace/controller/LoginServlet.java</file>
+            <file>file:/C:/Users/freen/Documents/NetBeansProjects/StudentMarketplace/src/java/com/marketplace/controller/LogoutServlet.java</file>
+            <file>file:/C:/Users/freen/Documents/NetBeansProjects/StudentMarketplace/web/seller_dashboard.jsp</file>
+        </group>
+    </open-files>
+</project-private>
